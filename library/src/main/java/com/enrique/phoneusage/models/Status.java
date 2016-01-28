@@ -1,11 +1,17 @@
+/**
+ * PhoneUsage v0.1 for Android
+ *
+ * @Author: Enrique López Mañas <eenriquelopez@gmail.com>
+ * http://www.lopez-manas.com
+ * @copyright: Enrique López Mañas
+ * @license: Apache License 2.0
+ */
+
 package com.enrique.phoneusage.models;
 
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * Created by enriquelopezmanas on 12/12/15.
- */
 public enum Status {
 		STATUS_COMPLETE(0),
 		STATUS_FAILED(64),

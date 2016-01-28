@@ -1,11 +1,17 @@
+/**
+ * PhoneUsage v0.1 for Android
+ *
+ * @Author: Enrique López Mañas <eenriquelopez@gmail.com>
+ * http://www.lopez-manas.com
+ * @copyright: Enrique López Mañas
+ * @license: Apache License 2.0
+ */
+
 package com.enrique.phoneusage.models;
 
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * Created by enriquelopezmanas on 1/28/16.
- */
 public enum MessageType {
 	MESSAGE_TYPE_ALL(0),
 	MESSAGE_TYPE_DRAFT(3),
